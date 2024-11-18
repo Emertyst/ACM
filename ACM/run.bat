@@ -1,0 +1,1 @@
+C:/Users/emert/Documents/Code/test.exe <C:/Users/emert/Documents/Code/1.in >C:/Users/emert/Documents/Code/1.out
